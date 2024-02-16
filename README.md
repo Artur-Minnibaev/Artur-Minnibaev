@@ -15,3 +15,7 @@ Passionate and detail-oriented Software Development Engineer in Test (SDET) with
 ![Flutter](https://img.shields.io/badge/SQL-090909?style=for-the-badge-&logo=mysql&logoColor=47C5FB)
 
 ### Follow me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge-&logo=linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/artur-minnibaev/)
+[![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge-&logo=facebook&logoColor=47C5FB)](https://www.facebook.com/artur.minnibaev11)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge-&logo=telegram&logoColor=47C5FB)](https://www.t.me/artur_minnibaev)
