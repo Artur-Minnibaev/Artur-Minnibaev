@@ -8,8 +8,10 @@ Passionate and detail-oriented Software Development Engineer in Test (SDET) with
 
 ![Flutter](https://img.shields.io/badge/Python-090909?style=for-the-badge-&logo=python&logoColor=47C5FB)
 ![Flutter](https://img.shields.io/badge/Selenium-090909?style=for-the-badge-&logo=selenium&logoColor=47C5FB)
+![Flutter](https://img.shields.io/badge/Playwright-090909?style=for-the-badge-&logo=playwright&logoColor=47C5FB)
 ![Flutter](https://img.shields.io/badge/Pytest-090909?style=for-the-badge-&logo=pytest&logoColor=47C5FB)
 ![Flutter](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge-&logo=postgresql&logoColor=47C5FB)
 ![Flutter](https://img.shields.io/badge/Docker-090909?style=for-the-badge-&logo=docker&logoColor=47C5FB)
+![Flutter](https://img.shields.io/badge/SQL-090909?style=for-the-badge-&logo=mysql&logoColor=47C5FB)
 
 ### Follow me
