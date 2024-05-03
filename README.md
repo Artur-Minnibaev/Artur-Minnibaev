@@ -7,10 +7,10 @@ I'm Artur, a passionate Software Development Engineer in Test with a love for Au
 
 * :rocket: I'm proficient in Python as Automation Quality Assurance.
 * :bug: I'm always eager to learn and explore new technologies.
-* :telescope: I'm currently working on interesting project using Kubernetes
-* :bulb: I'm currently learning DevOps technologies
-* :smile: Pronouns: He/Him
-* :mortar_board: Fact of me: Trilingual: English, Turkish, Russian
+* :telescope: I'm currently working on interesting project using Kubernetes.
+* :bulb: I'm currently learning DevOps technologies.
+* :smile: Pronouns: He/Him.
+* :mortar_board: Fact of me: Trilingual: English, Turkish, Russian.
 
 ### Languages and Tools
 
